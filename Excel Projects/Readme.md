@@ -2,7 +2,7 @@
 # **Excel Project Overview**  
 
 ## **What I’m Doing:**  
-Creating an interactive **Excel dashboard** to analyze a dataset of bike buyers. [View Dashboard]  
+Creating an interactive **Excel dashboard** to analyze a dataset of bike buyers. <a href = "https://github.com/AshrithaGaniga/Interactive-Dashboard-Projects/blob/main/Excel%20Projects/Bike%20Buyers%20Dashboard%20Screenshot.png"> View Dashboard </a>
 
 ## **Project Objective:**  
 Cleaning, analyzing, and visualizing **customer data** to provide insights on purchase behavior, **income levels, commute distance, education level, and age group**.  
@@ -76,8 +76,6 @@ Cleaning, analyzing, and visualizing **customer data** to provide insights on pu
 **Analyze:** View **key metrics** from pivot tables.  
  **Dashboard:** Explore **visualizations** in different formats (**charts, graphs, etc.**).  
 
----
 
-Would you like any refinements or additions? 😊
-<a href = "https://github.com/AshrithaGaniga/Interactive-Dashboard-Projects/blob/main/Excel%20Projects/Bike%20Buyers%20Dashboard%20Screenshot.png"> View Dashboard </a>
+
 ![Bike Buyers Dashboard Screenshot](https://github.com/user-attachments/assets/1633eac0-d1ce-4c28-9aa3-9c5dfbc88da1)
