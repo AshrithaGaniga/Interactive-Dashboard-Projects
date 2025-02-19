@@ -150,7 +150,7 @@ This project presents an interactive **Power BI dashboard** that visualizes surv
  **This Power BI dashboard serves as a powerful tool for career insights**, helping **aspiring data professionals** make informed decisions about skills, salary expectations, and industry trends.  
 
  ![Interactive-Dashboard-Projects/PowerBI Projects
-/Inside Data World Screenshot.png]()
+/Inside Data World Screenshot.png](https://github.com/AshrithaGaniga/Interactive-Dashboard-Projects/blob/main/PowerBI%20Projects/Inside%20Data%20World%20Screenshot.png)
 
 
 ---
