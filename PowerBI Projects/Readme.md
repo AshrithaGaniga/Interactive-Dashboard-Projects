@@ -1,6 +1,6 @@
 # **Power BI Project: Inside the Data World – Careers, Salaries & Tools**  
 
-This project presents an interactive **Power BI dashboard** that visualizes survey data from data professionals worldwide. The dashboard provides **key insights into salaries, job roles, work-life balance, programming language preferences, and industry trends**—helping users understand the evolving landscape of data careers.<a href="      ">View Dashboard </a href>
+This project presents an interactive **Power BI dashboard** that visualizes survey data from data professionals worldwide. The dashboard provides **key insights into salaries, job roles, work-life balance, programming language preferences, and industry trends**—helping users understand the evolving landscape of data careers.<a href="https://github.com/AshrithaGaniga/Interactive-Dashboard-Projects/blob/main/PowerBI%20Projects/Inside%20Data%20World%20Screenshot.png ">View Dashboard </a href>
 
 ---
 
@@ -65,7 +65,7 @@ This project presents an interactive **Power BI dashboard** that visualizes surv
 
 ## **4️ Dashboard Creation Process**  
 
-### 🟢 **Import & Data Preparation**  
+### **Import & Data Preparation**  
 - Imported the cleaned dataset into **Power BI**  
 - Used **Power Query** for transformations  
 - Applied **DAX measures** for dynamic calculations  
@@ -83,7 +83,7 @@ This project presents an interactive **Power BI dashboard** that visualizes surv
    - **Database Developers** and **Data Analysts** have lower salary ranges  
 
 3 **Programming Language Preferences (Stacked Column Chart)**  
-   - 🖥 **Python** dominates as the most popular programming language  
+   - **Python** dominates as the most popular programming language  
    -  **R, SQL, and C/C++** also show significant usage  
 
 4️**Salary Distribution by Gender (Donut Chart)**  
@@ -135,9 +135,9 @@ This project presents an interactive **Power BI dashboard** that visualizes surv
 
 ---
 
-## **7️Final Thoughts & Future Improvements**  
+## **7️ Final Thoughts & Future Improvements**  
 
-✔ **Project Value:**  
+ **Project Value:**  
 - Demonstrates ability to analyze, clean, and visualize data in **Power BI**  
 
  **Learning Outcomes:**  
@@ -148,6 +148,8 @@ This project presents an interactive **Power BI dashboard** that visualizes surv
 - Incorporating **predictive analytics for salary forecasting**  
 
  **This Power BI dashboard serves as a powerful tool for career insights**, helping **aspiring data professionals** make informed decisions about skills, salary expectations, and industry trends.  
+
+ https://github.com/AshrithaGaniga/Interactive-Dashboard-Projects/blob/main/PowerBI%20Projects/Inside%20Data%20World%20Screenshot.png
 
 ---
 
