@@ -1,6 +1,6 @@
 # **Power BI Project: Inside the Data World – Careers, Salaries & Tools**  
 
-This project presents an interactive **Power BI dashboard** that visualizes survey data from data professionals worldwide. The dashboard provides **key insights into salaries, job roles, work-life balance, programming language preferences, and industry trends**—helping users understand the evolving landscape of data careers.<a href="https://github.com/AshrithaGaniga/Interactive-Dashboard-Projects/blob/main/PowerBI%20Projects/Inside%20Data%20World%20Screenshot.png ">View Dashboard </a href>
+This project presents an interactive **Power BI dashboard** that visualizes survey data from data professionals worldwide. The dashboard provides **key insights into salaries, job roles, work-life balance, programming language preferences, and industry trends**—helping users understand the evolving landscape of data careers.<a href="https://github.com/AshrithaGaniga/Interactive-Dashboard-Projects/blob/main/PowerBI%20Projects/Inside%20Data%20World%20Screenshot.png ">View Dashboard </a>
 
 ---
 
@@ -149,7 +149,7 @@ This project presents an interactive **Power BI dashboard** that visualizes surv
 
  **This Power BI dashboard serves as a powerful tool for career insights**, helping **aspiring data professionals** make informed decisions about skills, salary expectations, and industry trends.  
 
- https://github.com/AshrithaGaniga/Interactive-Dashboard-Projects/blob/main/PowerBI%20Projects/Inside%20Data%20World%20Screenshot.png
+ !(https://github.com/AshrithaGaniga/Interactive-Dashboard-Projects/blob/main/PowerBI%20Projects/Inside%20Data%20World%20Screenshot.png)
 
 ---
 
