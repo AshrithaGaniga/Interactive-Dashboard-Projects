@@ -2,7 +2,7 @@
 
 #### **Project Overview**  
 - Built an interactive **Tableau dashboard** to analyze electric vehicle (EV) data.  
-- Provides insights into **EV adoption, trends, and characteristics** across states, manufacturers, and model years.<a href="Tableau Projects/Electric Vehicle Data Analysis Screenshot.png">View Dashboard </a>
+- Provides insights into **EV adoption, trends, and characteristics** across states, manufacturers, and model years.<a href="https://github.com/AshrithaGaniga/Interactive-Dashboard-Projects/blob/main/Tableau%20Projects/Electric%20Vehicle%20Data%20Analysis%20Screenshot.png">View Dashboard </a>
 
 #### **Project Focus**  
 - **Analyze total EV distribution** by state.  
@@ -85,3 +85,5 @@
   - Further **data segmentation and trend analysis** for refined insights.  
 - **Portfolio Impact:**  
   - Showcases ability to create **interactive, data-driven dashboards** for real-world applications.
+ 
+    ![](https://github.com/AshrithaGaniga/Interactive-Dashboard-Projects/blob/main/Tableau%20Projects/Electric%20Vehicle%20Data%20Analysis%20Screenshot.png)
