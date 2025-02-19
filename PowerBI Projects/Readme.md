@@ -86,11 +86,11 @@ This project presents an interactive **Power BI dashboard** that visualizes surv
    - **Python** dominates as the most popular programming language  
    -  **R, SQL, and C/C++** also show significant usage  
 
-4️**Salary Distribution by Gender (Donut Chart)**  
+4️ **Salary Distribution by Gender (Donut Chart)**  
    -  **Female professionals reported a slightly higher average salary than males**  
    -  Challenges traditional assumptions about gender pay gaps in data careers  
 
-5️**Geographic Breakdown of Respondents (Map & Tree Map)**  
+5️ **Geographic Breakdown of Respondents (Map & Tree Map)**  
    -  Country-wise distribution of data professionals, with:  
      - **United States, Canada, and India** having the highest concentration  
      - **Regional variations in salary expectations**  
@@ -120,7 +120,7 @@ This project presents an interactive **Power BI dashboard** that visualizes surv
 - **Students & entry-level professionals** have the lowest reported earnings  
 
  **Work-Life Balance & Salary Satisfaction:**  
-- ⚖ **Moderate work-life balance (5.74/10) and salary satisfaction (4.27/10)** suggest room for improvement  
+-  **Moderate work-life balance (5.74/10) and salary satisfaction (4.27/10)** suggest room for improvement  
 
  **Programming Language Preferences:**  
 -  **Python remains the top choice** among data professionals  
