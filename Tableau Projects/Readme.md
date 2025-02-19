@@ -86,4 +86,5 @@
 - **Portfolio Impact:**  
   - Showcases ability to create **interactive, data-driven dashboards** for real-world applications.
  
-    ![](https://github.com/AshrithaGaniga/Interactive-Dashboard-Projects/blob/main/Tableau%20Projects/Electric%20Vehicle%20Data%20Analysis%20Screenshot.png)
+    ![Interactive-Dashboard-Projects/Tableau Projects
+/Electric Vehicle Data Analysis Screenshot.png](https://github.com/AshrithaGaniga/Interactive-Dashboard-Projects/blob/main/Tableau%20Projects/Electric%20Vehicle%20Data%20Analysis%20Screenshot.png)
