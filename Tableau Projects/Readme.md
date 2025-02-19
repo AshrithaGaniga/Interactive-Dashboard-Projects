@@ -2,7 +2,7 @@
 
 #### **Project Overview**  
 - Built an interactive **Tableau dashboard** to analyze electric vehicle (EV) data.  
-- Provides insights into **EV adoption, trends, and characteristics** across states, manufacturers, and model years.<a href=" ">View Dashboard </a>
+- Provides insights into **EV adoption, trends, and characteristics** across states, manufacturers, and model years.<a href="Tableau Projects/Electric Vehicle Data Analysis Screenshot.png">View Dashboard </a>
 
 #### **Project Focus**  
 - **Analyze total EV distribution** by state.  
