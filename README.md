@@ -16,5 +16,5 @@ Here, you’ll find projects developed using **Power BI**, showcasing my ability
 ### **Tableau Projects**  
 This section features projects created with **Tableau**, emphasizing interactive and visually appealing dashboards. The projects demonstrate proficiency in **connecting diverse data sources, applying calculated fields, and using advanced charting techniques** to uncover valuable trends and patterns.  
 
-Feel free to explore the projects, provide feedback, and collaborate. Looking forward to continuous learning and growth in the field of **data visualization**! 🚀📊  
+
 
